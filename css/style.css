@@ -1,0 +1,13 @@
+body {
+   background-color: rebeccapurple;
+   background-color: #663399;
+   background-color: #663399AB;
+   background-color: #639;
+   background-color: #639A;
+   background-color: rgb(102, 51, 153);
+   background-color: rgba(102, 51, 153, .5);
+   background-color: rgb(40%, 20%, 60%);
+   background-color: rgba(40%, 20%, 60%, .8);
+   background-color: hsl(227, 100%, 50%);
+   background-color: hsla(227, 100%, 50%, .5);
+}
